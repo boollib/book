@@ -1,0 +1,99 @@
+﻿[Test]
+Programm=SimpleTest
+Version=0.1
+TestName=Test
+Author=
+MessageOnComplete=
+AllowFinish=1
+ShowResult=1
+DisableOpenTest=0
+ExitOnComplete=0
+LastQ=9
+
+[Q0]
+QLabel=What is the most common position of the appendix?
+LastA=4
+A0=Retrocecal
+A1=*McBurney point
+A2=Pelvic/Descending
+A3=Subcecal
+A4=Preileal
+
+[Q1]
+QLabel=The factors which contribute for intussusceptions development aren’t: <br/><br/>
+LastA=4
+A0=Meckel’s  diverticulum;
+A1=Disordered nutritional regimen;
+A2=Insuffitiency of ileocaecal valve;
+A3=Intestinal polyp;
+A4=*Disordered electrolyte metabolism.
+
+[Q2]
+QLabel=Which of the following is the least common position of appendix?<br/>
+LastA=3
+A0=Retroileal
+A1=*Retroceacal
+A2=Postileal
+A3=Pelvic
+
+[Q3]
+QLabel=Most common malignancy of appendix is?<br/><br/>
+LastA=3
+A0=Carcinoid tumor
+A1=*Adenocarcinoma
+A2=Squmaous cell carcinoma
+A3=Mixed cellularity
+
+[Q4]
+QLabel=All are features of acute appendicitis on ultrasound examination except?<br/>
+LastA=3
+A0=A compressible blind ending tube
+A1=Diameter of more than 7 mm
+A2=Loss of submucosal echogenicity
+A3=*All are true
+
+[Q5]
+QLabel=A child of 11 months of age , was reffered to the surgical department for the third time with the diagnosis of acute intestinal intussusceptions. In the previous cases conservative disinvagination was performed. Which of the causes is the most probable to lead to the recurrent intestinal intussusception?<br/>
+LastA=4
+A0=Irregular  introduction of natural feeding.
+A1=Disbalanced  age nutrition diet.
+A2=Gastroenterocolitis.
+A3=Disbalansed  nutritional regimen.
+A4=*The anatomic lead point.
+
+[Q6]
+QLabel=A child of 6 months of age, in 12 hours after the disease onset there was clinically and roentgenologically diagnosed  intussusception. What is the most probable treatment tactics? <br/><br/>
+LastA=4
+A0=Conservative treatment of  intussusception.
+A1=Planned operation.
+A2=Urgent operation.
+A3=*Pneumoirrigography and pneumatic reduction.
+A4=Syphon enema, surveillance.
+
+[Q7]
+QLabel=A child of 7 months of age was reffered to a surgical unit 16 hours after disease onset which was sudden. The child became restless, drawed up his knees , refused feeding. An attack of agitation was short, then the boy calmed and fell asleep. He woke up in 20-25 minutes, there appeared vomiting and repeated expressed agitation. The child is pale, adynamic. The diapers are covered with dark-red discharge. What is the tentative diagnosis? <br/><br/>
+LastA=4
+A0=Helminth intestinal obstruction.
+A1=Enterocolitis.
+A2=Meckel’s diverticulum.
+A3=*Intussusception.
+A4=Tumor of the abdominal cavity.
+
+[Q8]
+QLabel=A child of 6 months of age was reffered to a hospital in 6 hours after the disease onset, pale, has attacks of agitation with repeated vomiting. The last defecation occurred 4 hours ago. The child was first in his life fed with “ Semolina”. At examination : the child is pale, agitated, tachycardia; the forehead is covered with cold sweat. The abdomen isn’t swollen, soft, it isn’t possible to find the caecum in its usual position, at rectal examination : “raspberry-jelly” stools. What is the diagnosis?<br/><br/>
+LastA=4
+A0=*Intussception.
+A1=Dysentery.
+A2=Gastric ulcer.
+A3=Anal fissure.
+A4=Rectal bleeding polyp.
+
+[Q9]
+QLabel=A child of 5 months of age first had attacks of abdominal pains, multiple vomiting, flatulence and delayed defecation. At examination : the abdomen is soft; there is a little tender and movable malformation in the right subcostal area. At rectal examination : “red currant jelly” stools on doctor’s finger. What diagnosis is the most probable? <br/><br/>
+LastA=4
+A0=*Intussception.
+A1=Abdominal tumor.
+A2=Polyposis.
+A3=Peritonitis.
+A4=Intestinal tumors.
+
